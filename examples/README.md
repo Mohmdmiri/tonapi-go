@@ -1,4 +1,4 @@
-
+ACCOUNTS="comma-separated-list-of-raw-account-addresses" make run 
 
 ## Examples
 
